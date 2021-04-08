@@ -1,0 +1,24 @@
+#colorBlack{
+  width: 25px;
+  height: 25px;
+  background-color: black;
+}
+#colorRed{
+  width: 25px;
+  height: 25px;
+  background-color: red;
+}
+#colorBlue{
+  width: 25px;
+  height: 25px;
+  background-color: blue;
+}
+#colorPink{
+  width: 25px;
+  height: 25px;
+  background-color: pink;
+}
+p{
+  background-color: rgb(97, 178, 245);
+  padding: 10px;
+}
